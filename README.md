@@ -16,11 +16,11 @@ Welcome to my **personal portfolio website**, developed during my internship at 
 
 ## 🔧 Technologies Used
 
-- **HTML5**
-- **CSS3**
-- **Remix Icons**
-- **Ionicons**
-- Google Fonts
+- **HTML5**  
+- **CSS3**  
+- [Remix Icons](https://remixicon.com/)  
+- [Ionicons](https://ionic.io/ionicons)  
+- [Google Fonts](https://fonts.google.com/)
 
 ## 📂 Project Structure
 
