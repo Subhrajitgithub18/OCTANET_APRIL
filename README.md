@@ -10,7 +10,9 @@ Welcome to my **personal portfolio website**, developed during my internship at 
   - [Home](home.html)  
   - [About](about.html)  
   - [Education](education.html)  
-  - [Contact](contact.html)  
+  - [Contact](contact.html)
+  - [Address](home.html)  
+  - [Image Gallery](photogallery.html)
 - Contact form UI with input validation layout
 - Styled using custom CSS for a modern look
 
