@@ -25,14 +25,14 @@ Welcome to my **personal portfolio website**, developed during my internship at 
 ## 📂 Project Structure
 
 📁 Portfolio/
-├── index.html            → Main landing page
-├── about.html            → About section with navigation
-├── contact.html          → Contact form layout
-├── education.html        → Education background
-├── home.html             → Address page
-├── contact.css           → Styling for contact page
-├── about.css             → Styling for about page
-└── style.css             → Global styles (referenced in index.html)
+-├── index.html            → Main landing page
+-├── about.html            → About section with navigation
+-├── contact.html          → Contact form layout
+-├── education.html        → Education background
+-├── home.html             → Address page
+-├── contact.css           → Styling for contact page
+-├── about.css             → Styling for about page
+-└── style.css             → Global styles (referenced in index.html)
 
 ## 🔗 Connect With Me
 
