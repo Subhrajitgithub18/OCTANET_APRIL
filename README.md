@@ -7,10 +7,10 @@ Welcome to my **personal portfolio website**, developed during my internship at 
 - Responsive and clean layout
 - Interactive navigation menu
 - Multiple linked sections:  
-  - Home  
-  - About  
-  - Education  
-  - Contact  
+  - [Home](home.html)  
+  - [About](about.html)  
+  - [Education](education.html)  
+  - [Contact](contact.html)  
 - Contact form UI with input validation layout
 - Styled using custom CSS for a modern look
 
