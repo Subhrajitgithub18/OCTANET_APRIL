@@ -37,8 +37,8 @@ Welcome to my **personal portfolio website**, developed during my internship at 
 
 ## 🔗 Connect With Me
 
-📧 Email: subhrajit.swain152@gmail.com  
-📷 Instagram: [@mr_s.u.b.h.r.a.j.i.t](https://www.instagram.com/mr_s.u.b.h.r.a.j.i.t/?hl=en)
-💼 LinkedIn: <a href= "https://www.linkedin.com/in/subhrajit-swain">LinkedIn</a>
+- 📧 Email: subhrajit.swain152@gmail.com  
+- 📷 Instagram: [@mr_s.u.b.h.r.a.j.i.t](https://www.instagram.com/mr_s.u.b.h.r.a.j.i.t/?hl=en)
+- 💼 LinkedIn: <a href= "https://www.linkedin.com/in/subhrajit-swain">LinkedIn</a>
 
 Feel free to explore the files and try out the interactive sections. This project reflects my passion for web design and marks a step forward in my journey as a frontend developer.
