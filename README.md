@@ -24,3 +24,12 @@ Welcome to my **personal portfolio website**, developed during my internship at 
 
 ## 📂 Project Structure
 
+📁 Portfolio/
+├── index.html
+├── about.html
+├── contact.html
+├── education.html
+├── home.html
+├── contact.css
+├── about.css
+└── style.css
